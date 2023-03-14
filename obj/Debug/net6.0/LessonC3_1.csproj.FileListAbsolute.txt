@@ -1,0 +1,15 @@
+D:\GIT\LessonC3_1\bin\Debug\net6.0\LessonC3_1.exe
+D:\GIT\LessonC3_1\bin\Debug\net6.0\LessonC3_1.deps.json
+D:\GIT\LessonC3_1\bin\Debug\net6.0\LessonC3_1.runtimeconfig.json
+D:\GIT\LessonC3_1\bin\Debug\net6.0\LessonC3_1.dll
+D:\GIT\LessonC3_1\bin\Debug\net6.0\LessonC3_1.pdb
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.csproj.AssemblyReference.cache
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.AssemblyInfoInputs.cache
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.AssemblyInfo.cs
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.csproj.CoreCompileInputs.cache
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.dll
+D:\GIT\LessonC3_1\obj\Debug\net6.0\refint\LessonC3_1.dll
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.pdb
+D:\GIT\LessonC3_1\obj\Debug\net6.0\LessonC3_1.genruntimeconfig.cache
+D:\GIT\LessonC3_1\obj\Debug\net6.0\ref\LessonC3_1.dll
